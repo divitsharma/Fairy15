@@ -9,5 +9,18 @@ Team members:
 * Anirudh Iyer
 * Simeng Yang
 
-A high-concept sci-fi, multiplayer, first person, dogfight game. 
-Stylistic, colourful, with gorgeous varied terrain. Two or more players can ready-up into an exciting battle in the skies, filled with deadly bullets. Players can control the movement of the their respective jets with the WASD keys and fire with SPACE. 
+A high-concept sci-fi, multiplayer, first person, dogfight game.
+Stylistic, colourful, with gorgeous varied terrain. Two or more players can ready-up into an exciting battle in the skies, filled with deadly bullets. Players can control the movement of the their respective jets with the WASD keys and fire with SPACE.
+
+A few screenshots are shown below:
+
+
+![Main screen](Screenshots/main.png "Main screen")
+
+![Castle](Screenshots/castle.png "Castle")
+
+![Forest](Screenshots/forest.png "Forest")
+
+![Castle-shooting](Screenshots/castle-shooting.png "Castle-shooting")
+
+![Other Player](Screenshots/player2.png "Other Player")
